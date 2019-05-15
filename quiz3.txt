@@ -1,0 +1,5 @@
+* DBSCAN - Chapter 15 pg. 425 (short) - done
+* Decision Trees - Chapter 19
+* Naive Bayes - Chapter 18 pg. 524 (long)
+* K-NN - chapter 15.2.3 pg. 426 (short) 
+* Lab 5 / NLTK - already done (short / review) (look at polylearn) 
